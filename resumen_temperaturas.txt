@@ -1,0 +1,3 @@
+Temperatura Promedio: 17.83
+Temperatura Máxima: 22.00
+Temperatura Mínima: 13.90
